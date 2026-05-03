@@ -11,7 +11,7 @@ tags:
 
 ## 1_项目概览与学习目标
 
-- **原视频教程**：[黑马程序员AI智能伴侣项目(free)]([https://www.bilibili.com/video/BV1sHU9BmEne/?spm_id_from=333.1007.0.0&vd_source=eedf222b3d05e94e8684d4171436c506](https://www.bilibili.com/video/BV1sHU9BmEne?spm_id_from=333.788.videopod.episodes&vd_source=eedf222b3d05e94e8684d4171436c506&p=109))；
+- **原视频教程**：[黑马程序员AI智能伴侣项目(free)](https://www.bilibili.com/video/BV1sHU9BmEne?spm_id_from=333.788.videopod.episodes&vd_source=eedf222b3d05e94e8684d4171436c506&p=109)；
 - **原视频具体章节**：104 - 118
 - **最终输出形态**：一个基于`Streamlit`的聊天网页
 - **学习目标**：巩固 `python基础 + 大模型api调用 + streamlit页面快速搭建`

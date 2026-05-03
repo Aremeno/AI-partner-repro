@@ -8,7 +8,7 @@
 
 b 站视频：
 
-[黑马程序员AI智能伴侣项目(free)]([https://www.bilibili.com/video/BV1sHU9BmEne/?spm_id_from=333.1007.0.0&vd_source=eedf222b3d05e94e8684d4171436c506](https://www.bilibili.com/video/BV1sHU9BmEne?spm_id_from=333.788.videopod.episodes&vd_source=eedf222b3d05e94e8684d4171436c506&p=109))
+[黑马程序员AI智能伴侣项目(free)](https://www.bilibili.com/video/BV1sHU9BmEne?spm_id_from=333.788.videopod.episodes&vd_source=eedf222b3d05e94e8684d4171436c506&p=109)；
 
 ## 功能介绍
 
